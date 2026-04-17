@@ -40,5 +40,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/gourish-mondal-7a45b7214/)
+- LinkedIn: https://www.linkedin.com/in/gourish-mondal-7a45b7214/
 - Email: gourishmondal40@gmail.com
