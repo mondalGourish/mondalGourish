@@ -1,44 +1,122 @@
-# Hi 👋, I'm Gourish Mondal
+<!-- README WRAPPER -->
+<div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;">
 
-### 🚀 Full Stack Developer | MERN | Java
+<!-- HERO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,100:F59E0B&text=Hi,%20I'm%20Gourish%20Mondal%20👋&fontSize=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20CSE%20Student&descSize=15&descAlignY=55" width="100%" />
+</div>
+
+<!-- BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mondalGourish&label=Profile%20views&style=flat-square&color=FF6B6B&labelColor=0D1117" />
+</div>
 
 ---
 
-## 🧠 About Me
-- 🎓 Final Year Student
-- 💻 Working on Full Stack Projects
-- 🌱 Learning System Design & DevOps
+## 👨‍💻 ABOUT ME
+
+- 🎓 Final Year **Computer Science Engineering Student**
+- 💻 Passionate **Full Stack Developer (MERN)**
+- 🔐 Interested in **Backend, Authentication & Scalable Systems**
+- 🚀 Building real-world applications with clean architecture
+- 📍 Based in **West Bengal, India**
 
 ---
 
-## ⚙️ Tech Stack
+## 💼 PROJECTS
+
+### 🔹 FindMyStay (MERN)
+- Full-stack property listing platform (CRUD)
+- JWT Authentication & Role-based Access
+- RESTful APIs with Node.js & Express
+- MongoDB for scalable data storage
+
+---
+
+### 🔹 Expense Tracker
+- Track and manage personal expenses
+- Secure authentication system
+- Interactive UI with insights
+
+---
+
+## 🌱 CURRENTLY LEARNING
+
+- 🔥 Advanced Backend Design
+- ⚡ System Design Basics
+- ☁️ Cloud & Deployment
+
+---
+
+## ⚙️ TECH STACK
 
 ### 👨‍💻 Languages
-- Java, JavaScript
+![Tech](https://skillicons.dev/icons?i=c,java,js)
 
 ### 🌐 Frontend
-- React, HTML, CSS
+![Tech](https://skillicons.dev/icons?i=react,bootstrap,html,css)
 
 ### 🛠 Backend
-- Node.js, Express
+![Tech](https://skillicons.dev/icons?i=nodejs,express)
 
 ### 🗄 Database
-- MongoDB
+![Tech](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### 🧰 Tools
+![Tech](https://skillicons.dev/icons?i=git,github,vscode,idea)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mondalGourish&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mondalGourish&theme=radical)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mondalGourish&show_icons=true&theme=github_dark"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=mondalGourish&theme=github-dark"/>
+</div>
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/gourish-mondal-7a45b7214/
-- Email: gourishmondal40@gmail.com
+## 📈 ACTIVITY GRAPH
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mondalGourish&theme=react-dark)
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+- 🏅 Participated in **Hackspire’24**
+- ☁️ Oracle Cloud Infrastructure Certified
+- 📚 DSA with Java (Apna College)
+
+---
+
+## 🎓 EDUCATION
+
+- 🎓 B.Tech CSE (2022–2026) – CGPA: 7.53  
+- 📊 WBCHSE – 91.83%  
+- 📊 WBBSSE – 88.86%  
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:gourishmondal02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0080"/>
+  </a>
+  <a href="https://github.com/mondalGourish">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9"/>
+  </a>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF6B6B,100:F59E0B&text=Keep%20Building%20🚀&fontSize=20&fontColor=ffffff&section=footer"/>
+</div>
+
+</div>
