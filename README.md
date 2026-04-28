@@ -48,42 +48,17 @@
 
 ---
 
-## ⚙️ TECH STACK
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" title="C" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" title="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" title="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" title="CSS3" />
-</p>
-
-### 🛠 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" title="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=ffffff" title="Express.js" />
-</p>
-
-### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" title="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" title="MySQL" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" title="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" title="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" title="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=ffffff" title="IntelliJ IDEA" />
-</p>
+## ⚙️ TECH STACK 
+### 👨‍💻 Languages 
+![Tech](https://skillicons.dev/icons?i=c,java,js) 
+### 🌐 Frontend 
+![Tech](https://skillicons.dev/icons?i=react,bootstrap,html,css) 
+### 🛠 Backend 
+![Tech](https://skillicons.dev/icons?i=nodejs,express) 
+### 🗄 Database 
+![Tech](https://skillicons.dev/icons?i=mongodb,mysql) 
+### 🧰 Tools 
+![Tech](https://skillicons.dev/icons?i=git,github,vscode,idea)
 ---
 
 ## 📊 GITHUB STATS
