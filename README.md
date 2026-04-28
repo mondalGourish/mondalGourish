@@ -3,7 +3,7 @@
 
 <!-- HERO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,100:F59E0B&text=Hi,%20I'm%20Gourish%20Mondal%20👋&fontSize=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20CSE%20Student&descSize=15&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B6B,100:F59E0B&text=Hi,%20I'm%20Gourish%20Mondal%20👋&fontSize=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20CSE%20Student&descSize=15&descAlignY=68" width="100%" />
 </div>
 
 <!-- BADGES -->
