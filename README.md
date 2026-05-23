@@ -84,13 +84,7 @@
 
 ---
 
-## 🎓 EDUCATION
 
-- 🎓 B.Tech CSE (2022–2026) – CGPA: 7.53  
-- 📊 WBCHSE – 91.83%  
-- 📊 WBBSSE – 88.86%  
-
----
 
 ## 🤝 CONNECT WITH ME
 
