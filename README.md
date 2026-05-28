@@ -64,7 +64,7 @@
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mondalGourish&show_icons=true&theme=github_dark"/>
+  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=mondalGourish&show_icons=true&theme=github_dark"/> -->
   <img height="150" src="https://streak-stats.demolab.com/?user=mondalGourish&theme=github-dark"/>
 </div>
 
