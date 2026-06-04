@@ -43,7 +43,6 @@
 ## 🌱 CURRENTLY LEARNING
 
 - 🔥 Advanced Backend Design
-- ⚡ System Design Basics
 - ☁️ Cloud & Deployment
 
 ---
