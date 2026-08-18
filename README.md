@@ -49,15 +49,15 @@
 
 ## ⚙️ TECH STACK 
 ### 👨‍💻 Languages 
-![Tech](https://skillicons.dev/icons?i=c,java,js) 
+![Tech](https://skillicons.dev/icons?i=java,js) 
 ### 🌐 Frontend 
-![Tech](https://skillicons.dev/icons?i=react,bootstrap,html,css) 
+![Tech](https://skillicons.dev/icons?i=react,tailwind,html,css) 
 ### 🛠 Backend 
 ![Tech](https://skillicons.dev/icons?i=nodejs,express) 
 ### 🗄 Database 
 ![Tech](https://skillicons.dev/icons?i=mongodb,mysql) 
 ### 🧰 Tools 
-![Tech](https://skillicons.dev/icons?i=git,github,vscode,idea)
+![Tech](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)
 ---
 
 ## 📊 GITHUB STATS
